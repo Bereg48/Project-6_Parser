@@ -1,0 +1,182 @@
+[
+    {
+        "name_vacancies":"Стажер в команду тестирования",
+        "organization":"Mediascope",
+        "salary_from":40000,
+        "salary_to":40000,
+        "experience":"Нет опыта",
+        "requirement":"Иметь профильное высшее образование или учиться на IT или математической специальности. Способность и желание разбираться информационными системами. Базовые знание теории...",
+        "responsibility":"Функциональное тестирование проектов и заведение инцидентов в баг трекере (Yandex Tracker). Автоматизированное тестирование (<highlighttext>Python</highlighttext>, Robot Framework, VS Code). ",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Стажер-аналитик",
+        "organization":"Uchi.ru",
+        "salary_from":0,
+        "salary_to":50000,
+        "experience":"Нет опыта",
+        "requirement":"Имеешь учебный опыт в SQL любого диалекта и <highlighttext>Python</highlighttext>. Опыт использования любых <highlighttext>Python</highlighttext>-библиотек для проведения статистических тестов и проверки...",
+        "responsibility":"В зависимости от направления стажировки (Продуктовая аналитика, DE, BI) задачи будут отличаться. Подготовка различных выгрузок из баз данных, автоматизация их...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Инженер-оператор БПЛА",
+        "organization":"ЭКСПРЕСС",
+        "salary_from":80000,
+        "salary_to":120000,
+        "experience":"Нет опыта",
+        "requirement":"Базовые навыки: - Уверенные навыки пилотирования БПЛА. В приоритете навыки и опыт работы с большими коммерческими дронами, построенными на базе ArduPilot...",
+        "responsibility":"Управление, сборка, настройка БПЛА мультироторного типа. - программирование на языках <highlighttext>Python</highlighttext> и C++ (работа с машинным зрением и сетевыми протоколами, разработка...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Стажер по направлению ИТ от Ростелеком",
+        "organization":"FutureToday",
+        "salary_from":30000,
+        "salary_to":0,
+        "experience":"Нет опыта",
+        "requirement":"студент 2+ курса или выпускник. — знаешь <highlighttext>Python</highlighttext> (CLI, Logging, ООП, Flask или FastApi), а также библиотеки для работы с...",
+        "responsibility":"Разработка, внедрение и поддержка моделей машинного обучения. — Улучшение финансовых и качественных показателей (продажи, работа с оттоком, чат-боты, голосовые помощники...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Data scientist (Junior) в консалтинг",
+        "organization":"БСТ Менеджмент-Консалтинг",
+        "salary_from":40000,
+        "salary_to":0,
+        "experience":"Нет опыта",
+        "requirement":"Опыт в анализе данных и построении ML моделей. <highlighttext>Python</highlighttext>, SQL. Большим плюсом будет умение работать с геоданными (PostGIS, H3...",
+        "responsibility":"Строить прогнозные модели на основе геоданных. Придумывать креативные решения и делать их прототипы для различных бизнес задач заказчика используя ML...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Аналитик данных / Data Analyst (Junior)",
+        "organization":"Щербин Алексей Сергеевич",
+        "salary_from":50000,
+        "salary_to":70000,
+        "experience":"Нет опыта",
+        "requirement":"Базовые навыки программирования на <highlighttext>Python</highlighttext> (или способность в сжатые сроки этому обучиться). Английский язык на уровне В2 и выше. ",
+        "responsibility":"Изучать литературу, лекции и вебинары крупных специалистов по тематике квант-трейдинга. Подготавливать аналитические данные и презентовать их команде для обсуждения. ",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Стажер",
+        "organization":"МГТС",
+        "salary_from":20000,
+        "salary_to":40000,
+        "experience":"Нет опыта",
+        "requirement":"Навыки работы с одним или несколькими языками программирования: <highlighttext>Python</highlighttext> (один из фреймворков: Django, Flask, FastAPI), SQL, HTML, JavaScript. ",
+        "responsibility":"Автоматизация пользовательских сервисов с применением СУБД и web-сервисов.",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Стажер в команду DevOps инженеров",
+        "organization":"Mediascope",
+        "salary_from":40000,
+        "salary_to":40000,
+        "experience":"Нет опыта",
+        "requirement":"Иметь профильное высшее образование или учиться на IT или математической специальности. Способность и желание разбираться информационными системами. Уверенный пользователь Linux. ",
+        "responsibility":"Развитие платформы Инфраструктура как Сервис на базе Kubernetes. Развитие DevOps практик. Развертывание и настройка операторов внутри Kubernetes. Развертывание и траблшутинг...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Программист 1С без опыта",
+        "organization":"Твое Решение",
+        "salary_from":75000,
+        "salary_to":0,
+        "experience":"Нет опыта",
+        "requirement":"Опыт программирования на любом алгоритмическом языке (C++, PHP, JavaScript, 1C, <highlighttext>Python</highlighttext>, GoLang и т.д.) на базовом уровне (уровень...",
+        "responsibility":"Разработка и поддержка программного обеспечения на платформе 1С:Предприятие. Участие в разработке новых модулей и функциональности. Оптимизация существующего кода...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Программист",
+        "organization":"ГУФССП России по Московской области",
+        "salary_from":50000,
+        "salary_to":75000,
+        "experience":"Нет опыта",
+        "requirement":"Среднее профессиональное образование. Стрессоустойчивость, многозадачность, пытливый ум, изобретательность, инженерный подход.",
+        "responsibility":"Разработка скриптов bash, <highlighttext>python</highlighttext>, cmd, sql. Обслуживание баз данных, СУБД firebird. Обеспечение бесперебойной работы KSC, FTP, FS, терминальных серверов, ip...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Стажер (аналитик)",
+        "organization":"L’etoile Digital",
+        "salary_from":30000,
+        "salary_to":30000,
+        "experience":"Нет опыта",
+        "requirement":"Продвинутый уровень Excel с владением макросов. В идеале начальный уровень знаний языков программирования (<highlighttext>Python</highlighttext>). Минимальный опыт построения дашбордов. ",
+        "responsibility":"Сбор данных (продажи, остатки) из разных источников. Сведение полученных данных в таблицу (google-doc) по заданному формату, возможно дашборд. ",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Стажер в отдел разработки системного ПО",
+        "organization":"Mediascope",
+        "salary_from":40000,
+        "salary_to":40000,
+        "experience":"Нет опыта",
+        "requirement":"Иметь профильное высшее образование или учиться на IT или математической специальности. Способность и желание разбираться в информационных системах. ",
+        "responsibility":"Развитие внутренних библиотек, написанных на <highlighttext>Python</highlighttext> и Java, используемых во всех продуктах компании. Написание unit-тестов для проверки корректности работы...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Аналитик данных / бизнес-аналитик",
+        "organization":"KIT SOLER",
+        "salary_from":0,
+        "salary_to":80000,
+        "experience":"Нет опыта",
+        "requirement":"Знание Google Query, Power BI, SQL и <highlighttext>Python</highlighttext> будет преимуществом. Заинтересованным: любить данные и работу с ними, хотеть развиваться в...",
+        "responsibility":"Данные собирались быстро. Данные были корректными. Полученные данные предоставлялись в доступной форме.",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Аналитик",
+        "organization":"ГЛОРИЯ ДЖИНС",
+        "salary_from":115000,
+        "salary_to":115000,
+        "experience":"Нет опыта",
+        "requirement":"Опыт работы аналитиком в Fashion retail - компании будет преимуществом . Продвинутый пользователь Excel. Желателен базовый уровень SQL и <highlighttext>Python</highlighttext> для анализа . ",
+        "responsibility":"Сбор и обработка данных . Поддержка текущей отчетности, разработка и внедрение новых форм отчетности. Обработка данных в рамках существующих процессов. ",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Стажер направления \"Машинное обучение и анализ данных\"",
+        "organization":"МегаФон",
+        "salary_from":0,
+        "salary_to":35000,
+        "experience":"Нет опыта",
+        "requirement":"Понимание алгоритмов машинного обучения, статистического анализа. Знание языка программирования <highlighttext>Python</highlighttext>. Знание языка запросов SQL. Ответственность за результат. Военный билет или...",
+        "responsibility":"Работа с разнородными источниками данных (Oracle, Hadoop). Подготовка, очистка и предобработка данных, построение агрегатов. Ad-hock аналитика. Разработка аналитических моделей...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Ведущий специалист (BI)",
+        "organization":"Киберсталь",
+        "salary_from":0,
+        "salary_to":230000,
+        "experience":"Нет опыта",
+        "requirement":"Уверенные навыки построения дашбороов (Tableau, Qlik, Power BI и т.п.) от постановки задачи и определения источника данных до сдачи...",
+        "responsibility":"Обеспечение эффективной операционной деятельности Компании за счет аналитической поддержки, оптимизации и автоматизации бизнес-процессов. Участие в реализации организационных и ИТ...",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Junior Java Script разработчик (удалённо)",
+        "organization":"Nti.team",
+        "salary_from":15000,
+        "salary_to":30000,
+        "experience":"Нет опыта",
+        "requirement":"Базовые знания одного или нескольких языков разработки: C#, Java, <highlighttext>Python</highlighttext>. Обязательный опыт взаимодействия с любой базой (MySQL, PostgreSQL и т...",
+        "responsibility":"Работа на внутренних проектах компании (не сайты). Работа в команде разработчиков. Участие в еженедельных вечерних митапах.",
+        "api":"HeadHunter"
+    },
+    {
+        "name_vacancies":"Аналитик",
+        "organization":"DSM Group",
+        "salary_from":0,
+        "salary_to":54350,
+        "experience":"Нет опыта",
+        "requirement":"Навыки работы с MS Access. А так же мы приветствуем опыт программирования в <highlighttext>Python</highlighttext> и навыки работы с PL-SQL...",
+        "responsibility":"Регулярная обработка разноформатных данных и приведение их к единому виду. Проведение эконометрического моделирования в R и Excel (включая анализ временных...",
+        "api":"HeadHunter"
+    }
+]
